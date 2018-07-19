@@ -11,3 +11,35 @@ https://tinyurl.com/UberConf2018
   * Resources: https://facebook.github.io/react-vr/ 
 * Unity:
   * Resources: https://docs.unity3d.com/Manual/webgl-gettingstarted.html
+
+## Progressive Web Apps
+* Slides: https://github.com/christinakayastha/UberConf2018/blob/master/presentations/PWA.pdf
+* Vanilla Progressive Web App: 
+  * Tutorial: https://github.com/christinakayastha/ProgressiveWebAppTutorial
+  * Demo: https://tinyurl.com/PWATutorial
+  * Resources: https://developers.google.com/web/progressive-web-apps/
+* WorkBox Progressive Web App:g
+  * Tutorial: https://github.com/christinakayastha/WorkBoxTutorial
+  * Resources: https://developers.google.com/web/tools/workbox/
+* Other Resources:
+  * https://jakearchibald.github.io/isserviceworkerready/
+  * https://codelabs.developers.google.com/codelabs/your-first-pwapp
+  * https://codelabs.developers.google.com/codelabs/push-notifications/index.html
+  * https://developers.google.com/web/tools/workbox/modules/
+
+
+## Progressive Web Apps with Angular
+* Slides: https://github.com/christinakayastha/UberConf2018/blob/master/presentations/AngularPWA.pdf
+* Vanilla Progressive Web App: 
+  * Tutorial: https://github.com/christinakayastha/ProgressiveWebAppTutorial
+  * Demo: https://tinyurl.com/PWATutorial
+  * Resources: https://developers.google.com/web/progressive-web-apps/
+* Angular Progressive Web App: 
+  * https://github.com/christinakayastha/MusicalBox
+  * https://tinyurl.com/ngMusicBox
+* Other Resources:
+  * https://mobile.angular.io/
+  * https://jakearchibald.github.io/isserviceworkerready/
+  * https://developers.google.com/web/progressive-web-apps/
+  * https://codelabs.developers.google.com/codelabs/your-first-pwapp
+  * https://codelabs.developers.google.com/codelabs/push-notifications/index.html 
