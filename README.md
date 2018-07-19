@@ -35,8 +35,8 @@ https://tinyurl.com/UberConf2018
   * Demo: https://tinyurl.com/PWATutorial
   * Resources: https://developers.google.com/web/progressive-web-apps/
 * Angular Progressive Web App: 
-  * https://github.com/christinakayastha/MusicalBox
-  * https://tinyurl.com/ngMusicBox
+  * Tutorial: https://github.com/christinakayastha/AngularPWATutorial
+  * Resources: https://angular.io/guide/service-worker-config
 * Other Resources:
   * https://mobile.angular.io/
   * https://jakearchibald.github.io/isserviceworkerready/
